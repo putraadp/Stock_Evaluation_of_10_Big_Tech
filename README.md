@@ -12,3 +12,6 @@
 **Python Version:** 3.10.3  
 **Packages:** numpy, pandas, tensorflow, matplotlib, yfinance, plotly, cufflinks, sklearn, keras, datetime    
 **Dataset source:** Yahoo! Finance's API
+
+## Interactive View
+https://nbviewer.org/github/Underscore48/Stock_Evaluation_of_10_Big_Tech/blob/main/stock.ipynb
